@@ -1,0 +1,6 @@
+venv/
+.venv/
+data-raw/
+.idea/
+.Rproj.user
+
