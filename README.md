@@ -1,5 +1,7 @@
-                                            # **Health Data Hub**  
+# **Health Data Hub**  
+
                     📊 An open-source workflow for harmonizing health facility data from multiple sources. 
+---
 
 At **Unpatterned AI Labs**, we are building an **open-source global unified data platform** to provide high-quality, accessible, and harmonized datasets for researchers, policymakers, and organizations.  
 
