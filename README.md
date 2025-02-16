@@ -1,6 +1,10 @@
 # **Health Data Hub**  
 
-                    📊 An open-source workflow for harmonizing health facility data from multiple sources. 
+    📊 An open-source workflow for harmonizing health facility data from multiple sources.
+
+### ⭐ **Star the Repo**  
+If you find this project valuable, **star** ⭐ this repository to support the work and help others discover it! 
+
 ---
 
 At **Unpatterned AI Labs**, we are building an **open-source global unified data platform** to provide high-quality, accessible, and harmonized datasets for researchers, policymakers, and organizations.  
@@ -40,10 +44,7 @@ By combining **open data, AI-driven insights, and ethical governance**, we’re 
 ---
 
 ## 🚀 **How to Contribute**  
-We’d love for you to be a part of this! Here’s how you can help:  
-
-### ⭐ **Star the Repo**  
-If you find this project valuable, **star** ⭐ this repository to support the work and help others discover it!  
+We’d love for you to be a part of this! Here’s how you can help:
 
 ### 🏥 **Point Us to Health Data Sources**  
 Know of any useful **health facility datasets**? Drop a link in the issues section or create a PR! We are especially interested in **global sources beyond the US, UK, and Nigeria**.  
