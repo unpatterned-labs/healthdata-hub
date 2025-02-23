@@ -3,4 +3,5 @@ venv/
 data-raw/
 .idea/
 .Rproj.user
+data/processed
 
