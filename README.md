@@ -68,4 +68,3 @@ Have suggestions or feedback? Open an issue or start a discussion—let’s buil
 🔹 Semantic Data Layers
 🔹 Using integration with placeKeys
 
-Let’s make **global health data more accessible**—together! ❤️  
